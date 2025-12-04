@@ -49,3 +49,6 @@ Permite cadastrar novos produtos, preenchendo:<br>
 ❌ Esgotado<br>
 <br>
 📡 A mudança é refletida automaticamente para o usuário padrão.<br>
+<br>
+<br>
+![Preview](https://github.com/JustJoka/FACULTY-PROJECT-MOBILE/blob/main/project-faculty-final/Images/Screenshot%202025-12-04%20115629.png?raw=true)
